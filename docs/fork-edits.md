@@ -8,7 +8,7 @@ Customer builds ship from the exact upstream tag **v16.53.0**. Update the pin on
 
 ## Edits to ERPNext files
 
-Product code lives in separate apps (`egypt_core`, `egypt_retail`). Every exception that edits an ERPNext file is listed here with the reason.
+Product code lives in separate apps (`mizan_core`, `mizan_retail`). Every exception that edits an ERPNext file is listed here with the reason.
 
 | File | Change | Reason |
 |---|---|---|
